@@ -1,0 +1,10 @@
+{
+  "name": "Dark Alise OBS - Mobile Broadcast Studio",
+  "description": "Professional mobile broadcast & recording studio for Android and Web. Real multi-scene composition, camera overlays, hardware video encoding, audio mixer, and RTMP live streaming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.DarkAliseOBS" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#09090D</item>
+        <item name="android:navigationBarColor">#09090D</item>
+        <item name="android:windowBackground">#09090D</item>
+    </style>
+</resources>

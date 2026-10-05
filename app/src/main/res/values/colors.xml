@@ -1,0 +1,9 @@
+<resources>
+    <color name="obs_black">#09090D</color>
+    <color name="obs_purple">#6D28D9</color>
+    <color name="obs_purple_dark">#1E1035</color>
+    <color name="obs_blue">#2563EB</color>
+    <color name="obs_neon">#A855F7</color>
+    <color name="obs_surface">#121118</color>
+    <color name="obs_text">#F8FAFC</color>
+</resources>

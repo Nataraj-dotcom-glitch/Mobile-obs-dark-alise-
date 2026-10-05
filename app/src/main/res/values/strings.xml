@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dark Alise OBS</string>
+    <string name="channel_recording_name">Dark Alise Broadcast Service</string>
+    <string name="channel_recording_desc">Active recording and live broadcast controls</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+</resources>
